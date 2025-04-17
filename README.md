@@ -45,3 +45,6 @@
 <!-- 
 <img src="https://raw.githubusercontent.com/natanaelvinedjapri/natanaelvinedjapri/output/snake.svg" alt="Snake animation" />
 -->
+### 🐍 GitHub Snake
+
+<img src="https://raw.githubusercontent.com/natanaelvinedjapri/natanaelvinedjapri/output/snake.svg" alt="Snake animation" />

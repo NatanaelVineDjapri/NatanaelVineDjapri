@@ -1,5 +1,5 @@
 <h1 align="center" style="color:red;">Hey 👋, I'm Natanael</h1>
-<h3 align="center" style="color:#999;">Undergraduate Informatic Student.</h3>
+<h3 align="center" style="color:white;">Undergraduate Informatic Student.</h3>
 
 ---
 

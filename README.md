@@ -1,5 +1,8 @@
-<h1 align="center" style="color:red;">Hey 👋, I'm Natanael</h1>
+<h1 align="center" style="color:red;">Hey 👋, I'm <span style="color:#FFD700;">Natanael</span></h1>
 <h3 align="center" style="color:white;">Undergraduate Informatic Student.</h3>
+<div align="center">
+  <img src="download (1).jpeg" alt="Your image description" height="200" />
+</div>
 
 ---
 

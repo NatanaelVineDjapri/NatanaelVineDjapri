@@ -26,7 +26,7 @@
 
 ### 📊 My GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=natanaelvinedjapri&show_icons=true&theme=tokyonight&hide_border=false&bg_color=000000&title_color=ff004c&icon_color=ff004c&text_color=ffffff" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=natanaelvinedjapri&show_icons=true&theme=tokyonight&hide_border=false&bg_color=000000&title_color=FFD700&icon_color=FFD700&text_color=FFD700" height="170" />
 </div>
 
 ---

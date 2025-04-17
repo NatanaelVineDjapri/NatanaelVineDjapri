@@ -33,9 +33,9 @@
 
 ### 🔗 Connect with Me
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=red" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Discord-ff004c?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="mailto:natanaelvinedj@gmaill.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/natanaellvd/"><img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=red" /></a>
+  <a href="https://discord.gg/juC55XMcbe"><img src="https://img.shields.io/badge/Discord-ff004c?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=red" /></a>
 </p>
 

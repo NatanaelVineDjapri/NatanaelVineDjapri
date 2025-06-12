@@ -9,7 +9,7 @@
 ### 🧩 About Me
 - 🚀 Exploring and learning the world of full-stack development  
 - 💻 Fluent in: **HTML**, **CSS**, **JavaScript**, **C++**,and **Python**  
-- 🧠 Currently learning: **Java**, **MySQL**  
+- 🧠 Currently learning: **Java**, **MySQL** ,**PHP** 
 - 🎯 Always looking to build cool stuff & learn more  
 
 ---

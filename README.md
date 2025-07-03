@@ -1,5 +1,5 @@
 <h1 align="center" style="color:red;">Hey 👋, I'm <span style="color:#FFD700;">Natanael</span></h1>
-<h3 align="center" style="color:white;">Undergraduate Informatic Student.</h3>
+<h3 align="center" style="color:white;">Undergraduate Informatic Engineering Student.</h3>
 <div align="center">
   <img src="s3.jpeg" alt="Your image description" height="200" />
 </div>
@@ -8,8 +8,8 @@
 
 ### 🧩 About Me
 - 🚀 Exploring and learning the world of full-stack development  
-- 💻 Fluent in: **HTML**, **CSS**, **JavaScript**, **C++**  
-- 🧠 Currently learning: **Java**, **MySQL**  
+- 💻 Fluent in: **HTML**, **CSS**, **JavaScript**, **C++**,and **Python**  
+- 🧠 Currently learning: **Java**, **MySQL** ,**PHP** 
 - 🎯 Always looking to build cool stuff & learn more  
 
 ---
@@ -19,8 +19,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
 </div>
@@ -44,10 +47,6 @@
 
 ---
 
-<!-- 🐍 Optional Snake Animation -->
-<!-- 
-<img src="https://raw.githubusercontent.com/natanaelvinedjapri/natanaelvinedjapri/output/snake.svg" alt="Snake animation" />
--->
 ### 🐍 GitHub Snake
 
 <img src="https://raw.githubusercontent.com/natanaelvinedjapri/natanaelvinedjapri/output/snake.svg" alt="Snake animation" />

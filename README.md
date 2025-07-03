@@ -1,7 +1,7 @@
 <h1 align="center" style="color:red;">Hey 👋, I'm <span style="color:#FFD700;">Natanael</span></h1>
 <h3 align="center" style="color:white;">Undergraduate Informatic Engineering Student.</h3>
 <div align="center">
-  <img src="s3.jpeg" alt="Your image description" height="200" />
+  <img src="s3.jpeg" alt="Your image description" height="400" width = 700/>
 </div>
 
 ---

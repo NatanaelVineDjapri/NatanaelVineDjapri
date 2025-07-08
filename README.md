@@ -33,8 +33,8 @@
 
 ### 📊 My GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=natanaelvinedjapri&show_icons=true&theme=tokyonight&hide_border=false&bg_color=000000&title_color=FFD700&icon_color=FFD700&text_color=FFD700" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoviliusMeidi&layout=compact&theme=dark" alt="Top Langs" height="175">
+  <img src="https://github-readme-stats.vercel.app/api?username=natanaelvinedjapri&show_icons=true&theme=tokyonight&hide_border=false&bg_color=000000&title_color=FFD700&icon_color=FFD700&text_color=FFD700" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoviliusMeidi&layout=compact&theme=dark" alt="Top Langs" height="165">
 </div>
 
 ---

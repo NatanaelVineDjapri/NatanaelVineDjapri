@@ -8,9 +8,9 @@
 
 ### 🧩 About Me
 - 🚀 Exploring and learning the world of full-stack development  
-- 💻 Fluent in: **HTML**, **CSS**, **JavaScript**, **C++**,and **Python**  
-- 🧠 Currently learning: **Java**, **MySQL** ,**PHP** 
-- 🎯 Always looking to build cool stuff & learn more  
+- 💻 Fluent in: **JavaScript**, **Laravel**,and **Dart**  
+- 🧠 Currently exploring and learning **a lot of new technologies**
+- 🎯 Always experimenting, building cool stuff, and **improving backend skills**
 
 ---
 

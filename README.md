@@ -3,7 +3,7 @@
 
 ---
 
-### 🧩 About M
+### 🧩 About Me
 - 🚀 Exploring and learning the world of full-stack development  
 - 💻 Fluent in: **JavaScript**, **Laravel**, and **Dart**  
 - 🧠 Currently exploring and learning **many new technologies**  

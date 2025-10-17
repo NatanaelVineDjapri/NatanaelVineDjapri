@@ -8,7 +8,7 @@
 - 💻 Fluent in: **JavaScript**, **Laravel**, and **Dart**  
 - 🧠 Currently exploring and learning **many new technologies**  
 - 🎯 Always experimenting, building cool stuff, and improving **full-stack skills**
-
+  
 ---
 
 ### 🎨 Tech Stack

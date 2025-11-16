@@ -15,11 +15,11 @@
 <p align="center">
   <a href="https://github.com/natanaelvinedjapri" target="_self">
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=natanaelvinedjapri&show_icons=true&title_color=FFD700&icon_color=70d6ff&text_color=ffffff&bg_color=00000000&hide_border=true" 
+      src="https://github-readme-stats.vercel.app/api?username=natanaelvinedjapri&show_icons=true&title_color=a1fcf6&icon_color=70d6ff&text_color=ffffff&bg_color=00000000&hide_border=true" 
       width="48%" 
     />
     <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=natanaelvinedjapri&ring=FFD700&fire=70d6ff&currStreakLabel=FFD700&currStreakNum=70d6ff&sideNums=ffffff&sideLabels=FFD700&dates=ffffff&background=00000000&hide_border=true" 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=natanaelvinedjapri&ring=a1fcf6&fire=70d6ff&currStreakLabel=a1fcf6&currStreakNum=70d6ff&sideNums=ffffff&sideLabels=a1fcf6&dates=ffffff&background=00000000&hide_border=true" 
       width="48%" 
     />
   </a>
@@ -28,11 +28,11 @@
 <p align="center">
   <a href="https://github.com/natanaelvinedjapri" target="_self">
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanaelvinedjapri&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=FFD700&text_color=ffffff&langs_count=8&border_color=0d1117" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanaelvinedjapri&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=a1fcf6&text_color=ffffff&langs_count=8&border_color=0d1117" 
       width="34%"
     />
     <img 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=natanaelvinedjapri&theme=tokyo-night&bg_color=0d1117&title_color=FFD700&color=FFD700&line=70d6ff&point=ffffff&area=true" 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=natanaelvinedjapri&theme=tokyo-night&bg_color=0d1117&title_color=a1fcf6&color=FFD700&line=70d6ff&point=ffffff&area=true" 
       width="62%" 
       alt="GitHub Activity Graph"
     />
@@ -74,7 +74,20 @@
 </div>
 
 ---
+### 🏆 GitHub Tropphies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Natanaelvinedjapri&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+</div>
 
+---
+### 🔝 Top Contributed Repo & ✍️ Random Quotes 
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Natanaelvinedjapri&limit=5&theme=radical&combine_all_yearly_contributions=true" width="400" height="200" style="display: inline-block; margin-right: 10px;" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" width="400" height="200" style="display: inline-block;" />
+</p>
+
+
+---
 ### 🔗 Connect with Me
 <div align="center">
   <table>

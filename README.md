@@ -4,10 +4,10 @@
 ---
 
 ## 👨‍💻 About Me
-- 🚀 Exploring and learning the world of full-stack development  
-- 💻 Fluent in: **JavaScript**, **Laravel**, and **Dart**  
-- 🧠 Currently exploring and learning **many new technologies**  
-- 🎯 Always experimenting, building cool stuff, and improving **full-stack skills**
+- 🚀 Exploring the world of full-stack development, constantly learning and pushing boundaries to build robust and creative applications.
+- 💻 Fluent in: JavaScript, Laravel, and Dart – combining frontend and backend skills to craft seamless user experiences.
+- 🧠 Curious learner: always diving into new technologies, frameworks, and tools to stay ahead in the ever-evolving tech landscape.
+- 🎯 Maker at heart: experimenting, building cool projects, and refining full-stack skills while turning ideas into real-world solutions.
 
 ---
 

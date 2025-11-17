@@ -82,8 +82,8 @@
 ---
 ### 🔝 Top Contributed Repo & ✍️ Random Quotes 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Natanaelvinedjapri&limit=5&theme=radical&combine_all_yearly_contributions=true" width="400" height="200" style="display: inline-block; margin-right: 10px;" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" width="400" height="200" style="display: inline-block;" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Natanaelvinedjapri&limit=7&theme=radical&combine_all_yearly_contributions=true" width="400" height="300" style="display: inline-block; margin-right: 10px;" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" width="400" height="280" style="display: inline-block;" />
 </p>
 
 

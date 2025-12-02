@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm <span style="color:#FFD700;">Natanael</span></h1>
+<h1 align="center">👋 Hey, I'm <span style="color:#FFD700;">Natanael V</span></h1>
 <h3 align="center">🎓 Undergraduate Informatics Engineering Student</h3>
 
 ---

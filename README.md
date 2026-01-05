@@ -8,7 +8,7 @@
 - 💻 Fluent in: JavaScript, Laravel, and Dart – combining frontend and backend skills to craft seamless user experiences.
 - 🧠 Curious learner: always diving into new technologies, frameworks, and tools to stay ahead in the ever-evolving tech landscape.
 - 🎯 Maker at heart: experimenting, building cool projects, and refining full-stack skills while turning ideas into real-world solutions.
-
+- 
 ---
 
 ### 📊 GitHub Stats

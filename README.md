@@ -8,36 +8,24 @@
 - 💻 Fluent in: JavaScript, Laravel, and Dart – combining frontend and backend skills to craft seamless user experiences.
 - 🧠 Curious learner: always diving into new technologies, frameworks, and tools to stay ahead in the ever-evolving tech landscape.
 - 🎯 Maker at heart: experimenting, building cool projects, and refining full-stack skills while turning ideas into real-world solutions.
-- 
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <a href="https://github.com/natanaelvinedjapri" target="_self">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=natanaelvinedjapri&show_icons=true&title_color=a1fcf6&icon_color=70d6ff&text_color=ffffff&bg_color=00000000&hide_border=true" 
-      width="48%" 
-    />
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=natanaelvinedjapri&ring=a1fcf6&fire=70d6ff&currStreakLabel=a1fcf6&currStreakNum=70d6ff&sideNums=ffffff&sideLabels=a1fcf6&dates=ffffff&background=00000000&hide_border=true" 
-      width="48%" 
-    />
-  </a>
-</p>
 
 <p align="center">
-  <a href="https://github.com/natanaelvinedjapri" target="_self">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanaelvinedjapri&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=a1fcf6&text_color=ffffff&langs_count=8&border_color=0d1117" 
-      width="34%"
-    />
-    <img 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=natanaelvinedjapri&theme=tokyo-night&bg_color=0d1117&title_color=a1fcf6&color=FFD700&line=70d6ff&point=ffffff&area=true" 
-      width="62%" 
-      alt="GitHub Activity Graph"
-    />
-  </a>
+  <img src="https://github-readme-profile-theta.vercel.app/api?username=NatanaelVineDjapri&bg_color=0B0F14&title_color=E5E7EB&text_color=C9D1D9&icon_color=9CA3AF&border_color=374151&stroke_color=374151&username_color=C9D1D9&border_width=1.2&border_radius=10&photo_quality=25&photo_resize=150&format=svg" width="42%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=natanaelvinedjapri&bg_color=0B0F14&title_color=60A5FA&color=93C5FD&line=3B82F6&point=60A5FA&area=true&area_color=1E3A8A&custom_title=Contribution%20Activity"width="54.5%" />
 </p>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NatanaelVineDjapri&theme=github_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NatanaelVineDjapri&theme=github_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NatanaelVineDjapri&theme=github_dark" width="32%" />
+</p>
+
+<br/>
 
 ---
 
@@ -76,18 +64,12 @@
 ---
 ### 🏆 GitHub Tropphies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Natanaelvinedjapri&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy-trinibs-projects.vercel.app/?username=natanaelvinedjapri&theme=blue&no-bg=true&no-frame=true&row=1&column=8title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews,MultiLanguage&width=90%">
+
 </div>
 
 ---
-### 🔝 Top Contributed Repo & ✍️ Random Quotes 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Natanaelvinedjapri&limit=7&theme=radical&combine_all_yearly_contributions=true" width="400" height="300" style="display: inline-block; margin-right: 10px;" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" width="400" height="280" style="display: inline-block;" />
-</p>
 
-
----
 ### 🔗 Connect with Me
 <div align="center">
   <table>

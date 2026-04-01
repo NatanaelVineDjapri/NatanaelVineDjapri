@@ -160,7 +160,7 @@
   <a href="https://www.instagram.com/natanaellvd/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://discord.gg/juC55XMcbe"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://twitter.com/natanaellvd"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</div>
+  <a href="https://saweria.co/Vazelco"><img src="https://img.shields.io/badge/Saweria-FF8C00?style=for-the-badge&logo=ko-fi&logoColor=white"/></a></div>
 
 ---
 

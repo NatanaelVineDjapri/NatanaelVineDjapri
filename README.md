@@ -22,8 +22,7 @@
         </a>
       </td>
       <td align="center" width="50%">
-        <img src="https://nirzak-streak-stats.vercel.app/?user=NatanaelVineDjapri&theme=transparent&hide_border=true" alt="Streak Stats" width="100%" />
-      </td>
+        <img src="https://streak-stats.demolab.com?user=NatanaelVineDjapri&theme=transparent&hide_border=true" alt="Streak Stats" width="100%" />      </td>
     </tr>
   </table>
 </div>

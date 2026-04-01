@@ -152,42 +152,15 @@
 </div>
 
 ---
-
 ### 🔗 Connect with Me
-<div align="center">
-  <table>
-    <tbody>
-      <tr>
-        <td align="center">
-          <a href="mailto:natanaelvinedj@gmail.com" target="_blank">
-            <img src="https://skillicons.dev/icons?i=gmail" width="50" /><div>Gmail</div>
-          </a>
-        </td>
-        <td align="center">
-          <a href="https://www.instagram.com/natanaellvd/" target="_blank">
-            <img src="https://skillicons.dev/icons?i=instagram" width="50" /><div>Instagram</div>
-          </a>
-        </td>
-        <td align="center">
-          <a href="https://discord.gg/juC55XMcbe" target="_blank">
-            <img src="https://skillicons.dev/icons?i=discord" width="50" /><div>Discord</div>
-          </a>
-        </td>
-        <td align="center">
-          <a href="https://www.linkedin.com/in/natanaelvinedjapri/" target="_blank">
-            <img src="https://skillicons.dev/icons?i=linkedin" width="50" /><div>LinkedIn</div>
-          </a>
-        </td>
-        <td align="center">
-          <a href="https://www.linkedin.com/in/natanaelvinedjapri/" target="_blank">
-            <img src="https://skillicons.dev/icons?i=twitter" width="50" /><div>Twitter</div>
-          </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
 
+<div align="center">
+  <a href="mailto:natanaelvinedj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/natanaelvinedjapri/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/natanaellvd/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://discord.gg/juC55XMcbe"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://twitter.com/natanaellvd"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</div>
 
 ---
 

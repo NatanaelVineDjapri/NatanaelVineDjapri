@@ -4,13 +4,11 @@
 ---
 
 ## 👨‍💻 About Me
-- 🚀 Exploring the world of full-stack development, constantly learning and pushing boundaries to build robust and creative applications.
-- 💻 Fluent in: JavaScript, Laravel, and Dart – combining frontend and backend skills to craft seamless user experiences.
-- 🧠 Curious learner: always diving into new technologies, frameworks, and tools to stay ahead in the ever-evolving tech landscape.
-- 🎯 Maker at heart: experimenting, building cool projects, and refining full-stack skills while turning ideas into real-world solutions.
-  
----
+<p>I'm a full-stack dev focused on JavaScript, Laravel, and Dart, building real-world apps from idea to production while continuously exploring new frameworks and refining my craft.</p>
 
+<p>Currently studying Informatics Engineering and always looking for opportunities to collaborate and grow.</p>
+
+---
 <h2>📊 GitHub Stats</h2>
 
 <div align="center">

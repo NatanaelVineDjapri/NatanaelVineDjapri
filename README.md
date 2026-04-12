@@ -16,11 +16,12 @@
     <tr>
       <td align="center" width="50%">
         <a href="https://github.com/NatanaelVineDjapri">
-          <img src="https://github-readme-profile-theta.vercel.app/api?username=NatanaelVineDjapri&bg_color=0B0F14&title_color=E5E7EB&text_color=C9D1D9&icon_color=9CA3AF&border_color=374151&stroke_color=374151&username_color=C9D1D9&border_width=1.2&border_radius=10&photo_quality=25&photo_resize=150&format=svg" alt="Profile" width="100%" />
+          <img src="https://github-readme-profile-theta.vercel.app/api?username=NatanaelVineDjapri&bg_color=0B0F14&title_color=E5E7EB&text_color=C9D1D9&icon_color=9CA3AF&border_color=374151&stroke_color=374151&username_color=C9D1D9&border_width=1.2&border_radius=10&photo_quality=25&photo_resize=150&format=svg&v=2" alt="Profile" width="100%" />
         </a>
       </td>
       <td align="center" width="50%">
-        <img src="https://streak-stats.demolab.com?user=NatanaelVineDjapri&theme=transparent&hide_border=true" alt="Streak Stats" width="100%" />      </td>
+        <img src="https://streak-stats.demolab.com?user=NatanaelVineDjapri&theme=transparent&hide_border=true&v=2" alt="Streak Stats" width="100%" />
+      </td>
     </tr>
   </table>
 </div>
@@ -29,7 +30,7 @@
   <table>
     <tr>
       <td align="center" width="100%">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=natanaelvinedjapri&bg_color=0B0F14&title_color=60A5FA&color=93C5FD&line=3B82F6&point=60A5FA&area=true&area_color=1E3A8A&custom_title=Contribution%20Activity" alt="Activity Graph" width="100%" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=natanaelvinedjapri&bg_color=0B0F14&title_color=60A5FA&color=93C5FD&line=3B82F6&point=60A5FA&area=true&area_color=1E3A8A&custom_title=Contribution%20Activity&v=2" alt="Activity Graph" width="100%" />
       </td>
     </tr>
   </table>
@@ -39,13 +40,13 @@
   <table>
     <tr>
       <td align="center" width="30%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NatanaelVineDjapri&theme=github_dark" alt="Top Languages" width="100%" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NatanaelVineDjapri&theme=github_dark&v=2" alt="Top Languages" width="100%" />
       </td>
       <td align="center" width="30%">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NatanaelVineDjapri&theme=github_dark" width="100%" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NatanaelVineDjapri&theme=github_dark&v=2" width="100%" />
       </td>
       <td align="center" width="30%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NatanaelVineDjapri&theme=github_dark" alt="Stats Card" width="100%" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NatanaelVineDjapri&theme=github_dark&v=2" alt="Stats Card" width="100%" />
       </td>
     </tr>
   </table>
@@ -145,10 +146,9 @@
 </div>
 
 ---
-### 🏆 GitHub Tropphies
+### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy-trinibs-projects.vercel.app/?username=natanaelvinedjapri&theme=blue&no-bg=true&no-frame=true&row=1&column=8title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews,MultiLanguage&width=90%">
-
+  <img src="https://github-profile-trophy-trinibs-projects.vercel.app/?username=natanaelvinedjapri&theme=blue&no-bg=true&no-frame=true&row=1&column=8&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews,MultiLanguage&width=90%&v=2">
 </div>
 
 ---
@@ -160,7 +160,8 @@
   <a href="https://www.instagram.com/natanaellvd/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://discord.gg/juC55XMcbe"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://twitter.com/natanaellvd"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://saweria.co/Vazelco"><img src="https://img.shields.io/badge/Saweria-FF8C00?style=for-the-badge&logo=ko-fi&logoColor=white"/></a></div>
+  <a href="https://saweria.co/Vazelco"><img src="https://img.shields.io/badge/Saweria-FF8C00?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
+</div>
 
 ---
 

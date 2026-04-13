@@ -4,7 +4,7 @@
 ---
 
 ## 👨‍💻 About Me
-<p>I'm a full-stack dev focused on JavaScript, Typescript, NextJs,.Laravel, and Dart, building real-world apps from idea to production while continuously exploring new frameworks and refining my craft.</p>
+<p>I'm a full-stack dev focused on JavaScript, Typescript, NextJs, Laravel, and Dart, building real-world apps from idea to production while continuously exploring new frameworks and refining my craft.</p>
 
 <p>Currently studying Informatics Engineering and always looking for opportunities to collaborate and grow.</p>
 

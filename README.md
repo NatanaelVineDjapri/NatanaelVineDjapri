@@ -1,7 +1,11 @@
 <h1 align="center">👋 Hey, I'm <span style="color:#FFD700;">Natanael V</span></h1>
 <h3 align="center">🎓 Undergraduate Informatics Engineering Student</h3>
 
----
+<div align="right">
+  <a href="https://github.com/NatanaelVineDjapri">
+    <img src="https://komarev.com/ghpvc/?username=NatanaelVineDjapri&style=flat-square&color=blueviolet" alt="profile view counter"/>
+  </a>
+</div>
 
 ## 👨‍💻 About Me
 <p>I'm a full-stack dev focused on JavaScript, Typescript, NextJs, Laravel, and Dart, building real-world apps from idea to production while continuously exploring new frameworks and refining my craft.</p>
@@ -11,7 +15,7 @@
 ---
 <h2>📊 GitHub Stats</h2>
 
-<div align="center">
+<div align="right">
   <table>
     <tr>
       <td align="center" width="50%">

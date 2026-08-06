@@ -1,5 +1,9 @@
 <h1 align="center">👋 Hey, I'm <span style="color:#FFD700;">Natanael V</span></h1>
 <h3 align="center">🎓 Undergraduate Informatics Engineering Student</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Internship-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to-Entry--Level%20Jobs-blue?style=for-the-badge" />
+</p>
 
 <div align="right">
   <a href="https://github.com/NatanaelVineDjapri">
